@@ -2,4 +2,4 @@
 [![Actions Status](https://github.com/alexdermenji/devops-engineer-from-scratch-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/alexdermenji/devops-engineer-from-scratch-project-49/actions)
 
 
-test
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=alexdermenji_devops-engineer-from-scratch-project-49)
