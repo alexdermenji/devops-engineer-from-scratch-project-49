@@ -3,3 +3,7 @@
 
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=alexdermenji_devops-engineer-from-scratch-project-49)
+
+## Brain Even game
+
+[![asciicast](https://asciinema.org/a/zMWUJwijmy5g3ofN.svg)](https://asciinema.org/a/zMWUJwijmy5g3ofN)
