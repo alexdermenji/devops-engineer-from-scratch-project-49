@@ -19,3 +19,7 @@
 ## Brain Progression game
 
 [![asciicast](https://asciinema.org/a/kyY3bWjovnmZi52e.svg)](https://asciinema.org/a/kyY3bWjovnmZi52e)
+
+## Brain Prime game
+
+[![asciicast](https://asciinema.org/a/2hjbi1B57HmFgN32.svg)](https://asciinema.org/a/2hjbi1B57HmFgN32)
