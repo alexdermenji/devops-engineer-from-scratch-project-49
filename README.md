@@ -23,3 +23,5 @@
 ## Brain Prime game
 
 [![asciicast](https://asciinema.org/a/2hjbi1B57HmFgN32.svg)](https://asciinema.org/a/2hjbi1B57HmFgN32)
+
+[![hello-world](https://github.com/alexdermenji/devops-engineer-from-scratch-project-49/actions/workflows/hello-world.yml/badge.svg)](https://github.com/alexdermenji/devops-engineer-from-scratch-project-49/actions/workflows/hello-world.yml)
