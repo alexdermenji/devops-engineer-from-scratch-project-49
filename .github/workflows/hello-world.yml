@@ -5,8 +5,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v3
+      - uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true 
       - run: make install
-      - run: make build
       - run: make lint
+      - run: make build
 
